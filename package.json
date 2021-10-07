@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/geshan/nodejs-readfile-line-by-line/issues"
   },
-  "homepage": "https://github.com/geshan/nodejs-readfile-line-by-line#readme"
+  "homepage": "https://github.com/geshan/nodejs-readfile-line-by-line#readme",
+  "dependencies": {
+    "n-readlines": "^1.0.1"
+  }
 }
